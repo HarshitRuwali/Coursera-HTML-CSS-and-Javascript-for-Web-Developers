@@ -9,6 +9,7 @@ See the [web-page](https://harshitruwali.github.io/Coursera-HTML-CSS-and-Javascr
 See the [web-page](https://harshitruwali.github.io/Coursera-HTML-CSS-and-Javascript-for-Web-Developers/Week%203/index.html).
 
 ### Week 4
-See the [web-page](https://harshitruwali.github.io/Coursera-HTML-CSS-and-Javascript-for-Web-Developers/Week%204/index.html)
+See the [web-page](https://harshitruwali.github.io/Coursera-HTML-CSS-and-Javascript-for-Web-Developers/Week%204/index.html).
 
-#### Rest to be update soon.
+#### Week 5
+See the [web-page](https://harshitruwali.github.io/Coursera-HTML-CSS-and-Javascript-for-Web-Developers/Week%205/index.html).
